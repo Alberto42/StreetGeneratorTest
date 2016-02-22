@@ -1,0 +1,2 @@
+javac mainFrame/MainFrame.java
+javac mainFrame/city/City.java
